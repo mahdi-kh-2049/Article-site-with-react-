@@ -1,0 +1,10 @@
+.aboutPage{
+text-align: center;
+}
+.aboutPage h2{
+    margin: 30px 0px;
+    text-align:right ;
+}
+.aboutPage p{
+    text-align: right;
+}

@@ -1,0 +1,23 @@
+.createArticlePage {
+}
+.createArticlePage h1 {
+  text-align: right;
+  margin: 40px 0;
+  font-size: 18px;
+  font-weight: 300;
+}
+.buttonWarpper{
+  text-align: right;
+}
+.buttonWarpper button{
+  padding: 5px 10px;
+  background-color: cornflowerblue;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.buttonWarpper button:active{
+  opacity: 0.8;
+}
